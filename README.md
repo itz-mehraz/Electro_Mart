@@ -1,10 +1,4 @@
-Sure, here's a README file template you can use for your GitHub repository for Electromart BD:
 
----
-
-# ElectroMart BD
-
-![ElectroMart BD Logo](https://example.com/logo.png)
 
 ElectroMart BD is a Bangladeshi e-commerce website developed by Khondokar Ahmed Mehraz. It is currently under development and aims to provide a fast and scalable platform to handle a huge number of visitors.
 
